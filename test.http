@@ -5,3 +5,7 @@ content-type: application/json
     "title": "New post",
     "content": "Hello, Go!"
 }
+
+### 
+# GET
+GET  http://localhost:8080/v1/posts/1
